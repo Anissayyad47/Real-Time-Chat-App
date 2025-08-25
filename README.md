@@ -25,7 +25,7 @@ This platform allows users to engage in **real-time messaging** with a responsiv
 | **MongoDB** | NoSQL database for storing users and chat data |
 | **Socket.IO** | Real-time, bidirectional event-based communication |
 | **JWT** | Secure authentication and session management |
-| **Tailwind CSS** *(optional)* | Styling and responsive UI components |
+| **Tailwind CSS**  | Styling and responsive UI components |
 
 ---
 
