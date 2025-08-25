@@ -61,5 +61,6 @@ This platform allows users to engage in **real-time messaging** with a responsiv
 ## Loading user interface 
 
 
-<img width="1920" height="1080" alt="Chat-App and 10 more pages - Personal - Microsoft​ Edge 25-08-2025 16_49_52" src="https://github.com/user-attachments/assets/5fcb5a00-f97b-494f-9564-11b623d4c61a" />
+<img width="1920" height="1080" alt="Chat-App and 10 more pages - Personal - Microsoft​ Edge 25-08-2025 16_34_32" src="https://github.com/user-attachments/assets/fc1a2064-3f93-43a1-bc67-42646c14dbd1" />
+
 
